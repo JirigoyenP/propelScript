@@ -1,6 +1,8 @@
-Instalación y Uso
-1. Crear y Activar Entorno Virtual
-bash
+# Instalación y Uso
+
+## 1. Crear y Activar Entorno Virtual
+
+```bash
 # Crear entorno virtual
 python -m venv venv
 
@@ -11,16 +13,19 @@ venv\Scripts\activate
 source venv/bin/activate
 2. Instalar Dependencias
 bash
+Copiar código
 pip install -r requirements.txt
 3. Configurar API Key de Google Gemini
 Crea un archivo .env en la raíz del proyecto y agrega tu API Key:
 
 env
+Copiar código
 GEMINI_API_KEY=tu_api_key_aqui_google_gemini
 4. Preparar Archivo de Preguntas
 Crea un archivo questions.json con tus preguntas:
 
 json
+Copiar código
 [
     {
         "question": "¿Cuáles son las mejores prácticas para el desarrollo de software?",
@@ -36,4 +41,7 @@ json
 Uso del Script
 Ejecutar el Script Principal
 bash
+Copiar código
 python ai_api.py
+arduino
+Copiar código
