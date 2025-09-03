@@ -21,23 +21,7 @@ Crea un archivo .env en la raíz del proyecto y agrega tu API Key:
 env
 Copiar código
 GEMINI_API_KEY=tu_api_key_aqui_google_gemini
-4. Preparar Archivo de Preguntas
-Crea un archivo questions.json con tus preguntas:
 
-json
-Copiar código
-[
-    {
-        "question": "¿Cuáles son las mejores prácticas para el desarrollo de software?",
-        "context": "Metodologías ágiles",
-        "max_tokens": 200
-    },
-    {
-        "question": "Explica qué es la inteligencia artificial",
-        "context": "Para audiencia no técnica",
-        "max_tokens": 150
-    }
-]
 Uso del Script
 Ejecutar el Script Principal
 bash
