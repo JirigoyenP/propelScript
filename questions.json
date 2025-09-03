@@ -1,0 +1,17 @@
+[
+    {
+        "question": "¿Cuáles son las mejores prácticas para el desarrollo de software?",
+        "context": "Desarrollo ágil y metodologías modernas",
+        "max_tokens": 200
+    },
+    {
+        "question": "Explica qué es la inteligencia artificial en términos simples",
+        "context": "Para audiencia no técnica",
+        "max_tokens": 150
+    },
+    {
+        "question": "¿Cómo puedo mejorar la seguridad de mi aplicación web?",
+        "context": "Desarrollo full-stack con Python y JavaScript",
+        "max_tokens": 180
+    }
+]

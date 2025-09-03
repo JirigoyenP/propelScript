@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "total_preguntas": 3,
+    "archivo_origen": "questions.json",
+    "fecha_procesamiento": "2025-09-03T10:39:48.785037",
+    "modelo": "gemini-2.5-flash-lite",
+    "webhook_activado": false
+  },
+  "respuestas": [
+    {
+      "pregunta": "¿Cuáles son las mejores prácticas para el desarrollo de software?",
+      "contexto": "Desarrollo ágil y metodologías modernas",
+      "respuesta": "Las mejores prácticas para el desarrollo de software son un conjunto de principios y técnicas que buscan mejorar la calidad, eficiencia, colaboración y adaptabilidad del proceso de desarrollo. Si bien no existe una respuesta única y definitiva que sirva para todos los proyectos, aquí te presento un resumen de las prácticas más reconocidas y efectivas, especialmente en el contexto del desarrollo ágil y las metodologías modernas:\n\n**Principios Fundamentales (Alineados con el Manifiesto Ágil):**\n\n*   **Colaboración y Comunicación:** Fomentar una comunicación abierta y constante entre todos los miembros del equipo (desarrolladores, testers, product owners, stakeholders) y con el cliente. Las reuniones diarias (daily stand-ups), retrospectivas y sesiones de feedback son cruciales.\n*   **Entrega Continua de Valor:** Priorizar la entrega de software funcional y de valor para el cliente de forma frecuente e incremental. Esto permite obtener retroalimentación temprana y adaptar el producto según",
+      "timestamp": "2025-09-03T10:39:45.269068",
+      "modelo": "gemini-2.5-flash-lite"
+    },
+    {
+      "pregunta": "Explica qué es la inteligencia artificial en términos simples",
+      "contexto": "Para audiencia no técnica",
+      "respuesta": "Imagina que quieres enseñarle a una computadora a hacer algo que normalmente solo los humanos podemos hacer, como reconocer una imagen, entender lo que dices o incluso jugar a un videojuego.\n\nLa **Inteligencia Artificial (IA)** es como un **cerebro artificial** que le damos a las computadoras para que puedan **aprender y pensar por sí mismas**.\n\nPiensa en cómo tú aprendes: ves cosas, escuchas, lees y con el tiempo, te vuelves mejor en eso. La IA funciona de manera similar. Le damos a la computadora **muchos ejemplos** (por ejemplo, miles de fotos de gatos) y le decimos \"esto es un gato\". La computadora, a través de un proceso llamado **aprendizaje**,",
+      "timestamp": "2025-09-03T10:39:47.019645",
+      "modelo": "gemini-2.5-flash-lite"
+    },
+    {
+      "pregunta": "¿Cómo puedo mejorar la seguridad de mi aplicación web?",
+      "contexto": "Desarrollo full-stack con Python y JavaScript",
+      "respuesta": "¡Excelente pregunta! La seguridad de una aplicación web es un aspecto fundamental y continuo. Aquí te presento una guía completa de cómo mejorar la seguridad de tu aplicación web, dividida en áreas clave, con ejemplos específicos para desarrollo full-stack con Python y JavaScript:\n\n## Principios Fundamentales de Seguridad\n\nAntes de entrar en detalles técnicos, es importante tener en mente estos principios:\n\n*   **Defensa en Profundidad (Defense in Depth):** Implementa múltiples capas de seguridad. Si una capa falla, las otras aún pueden proteger tu aplicación.\n*   **Principio de Mínimo Privilegio (Principle of Least Privilege):** Otorga a los usuarios y componentes solo los permisos necesarios para realizar sus tareas.\n*   **Validación de Entradas (Input Validation):** Nunca confíes en los datos que provienen del cliente. Valida y s",
+      "timestamp": "2025-09-03T10:39:48.783531",
+      "modelo": "gemini-2.5-flash-lite"
+    }
+  ]
+}
