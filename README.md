@@ -82,11 +82,3 @@ python ai_api.py
 
 ---
 
-## Consejos útiles
-
-* Si usas **PowerShell** y hay restricciones de ejecución, podrías necesitar ejecutar `Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned` (ejecutar PowerShell como administrador).
-* Verifica que la variable `GEMINI_API_KEY` esté bien escrita en `.env` y que el script lea variables de entorno (por ejemplo usando `python-dotenv`).
-
----
-
-Si quieres, puedo añadir una sección de *Descripción del proyecto*, *Cómo contribuir* o generar directamente un archivo descargable `.md` listo para subir al repositorio.
